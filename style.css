@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+.note{
+    font-size: 25px;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    box-shadow:5px 5px 5px  red;
+    margin: 0px;
+
+}
+.note{
+    font-size: 20px;
+    color:darkred;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: rgb(0, 208, 245);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    line-height: 3;
+    font-weight: 900;
+
+}
+
+canvas{
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
